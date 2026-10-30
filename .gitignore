@@ -1,0 +1,15 @@
+# Database & user logs (never push personal activity history)
+*.db
+*.sqlite3
+*.log
+
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
